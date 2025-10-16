@@ -1,0 +1,8 @@
+Install Steps :
+1. New Folder Then Open Vs Code
+2. npm init -y / yarn init (package.JSON file create)
+3. npm i express / yarn add express (install)
+4. index.js file create then create server then run
+5. run node index.js
+6. npm i nodemon --save-dev (nodemon install for auto update)
+7. run nodemon index.js
